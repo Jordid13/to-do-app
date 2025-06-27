@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Do Laundry",
+    "dueDate": "1/2/3030",
+    "tags": ["personal"]
+  },
+  { "id": 2, "name": "Shower", "dueDate": "1/2/3030", "tags": ["personal"] }
+]
