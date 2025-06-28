@@ -37,6 +37,7 @@ Now start the development server by running the command below
 ```bash
 npm run dev
 ```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Project Structure
 
@@ -140,7 +141,6 @@ The app uses React Context for state management:
 - ✅ Mark todos as complete/incomplete
 - ✅ Modal for viewing/editing todo details
 - ✅ Form validation with alerts
-- ✅ Responsive design with CSS modules
 - ✅ TypeScript for type safety
 - ✅ PostgreSQL database with Prisma ORM
 
@@ -151,5 +151,3 @@ The app uses React Context for state management:
 - **Database**: PostgreSQL
 - **ORM**: Prisma
 - **Styling**: CSS Modules
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
